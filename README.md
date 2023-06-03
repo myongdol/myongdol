@@ -23,5 +23,5 @@
 
 <div align=center><h1>📚 CONTACT</h1></div>
 <div align=center> 
- <img src="https://img.shields.io/badge/gmail-E34F26?style=for-the-badge&logo=gmail&logoColor=white"> 
+ <a href="mailto:myongdol132@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=myongdol132@gmail.com"/></a>
 </div>
