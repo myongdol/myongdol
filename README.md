@@ -19,3 +19,9 @@
   <img src="https://img.shields.io/badge/fontawesome-339AF0?style=for-the-badge&logo=fontawesome&logoColor=white">
   <br>
 </div>
+
+
+<div align=center><h1>📚 CONTACT</h1></div>
+<div align=center> 
+ <img src="https://img.shields.io/badge/gmail-E34F26?style=for-the-badge&logo=gmail&logoColor=white"> 
+</div>
