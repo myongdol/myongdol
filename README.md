@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Myongdol&fontSize=90)
 
-<div align=center><h1>📚 Tech STACKS</h1></div>
+<div align=center><h1>:books: Tech STACKS </h1></div>
 
 <div align=center> 
   <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> 
@@ -17,7 +17,7 @@
   <br>
 </div>
 
-<div align=center><h1>🔨Cowork Tools</h1></div>
+<div align=center><h1>:smiley:Cowork Tools</h1></div>
   <div align=center>
   &nbsp
   <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
