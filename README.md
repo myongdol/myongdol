@@ -36,6 +36,7 @@
 <div align=center>
   <h2>
   &nbsp
- <a href="mailto:myongdol132@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=myongdol132@gmail.com"/></a>
+ <a href="mailto:myongdol132@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=myongdol132@gmail.com"
+                                          style="width: 80px; height: 60px;"/></a>
   </h2>
 </div>
